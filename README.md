@@ -1,2 +1,2 @@
 # PhotoEditor
-It generates filters applied images for the given images.
+It generates filter applied images for the given images.
